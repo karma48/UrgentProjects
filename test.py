@@ -2,7 +2,7 @@ import streamlit as st
 
 # Set page title
 st.set_page_config(page_title="UrgentProjects")
-st.markdown('<h1 style="text-align: center;">UrgentProjects Services</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align: center;">UrgentProjects</h1>', unsafe_allow_html=True)
 
 # Minimal Description
 st.write("Explore the services we offer to help students and professionals succeed in their academic and career journeys.")

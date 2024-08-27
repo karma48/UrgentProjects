@@ -31,7 +31,7 @@ with tab1:
     5. **Thesis Writing Support**  
        Get guidance on crafting a well-structured, compelling thesis.
     """)
-    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">Contact Us</button></a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">WhatsApp</button></a>', unsafe_allow_html=True)
 
 with tab2:
     st.header("Job Prep Bundle")
@@ -54,7 +54,7 @@ with tab2:
     5. **Certification Guidance**  
        Get advice on which certifications can boost your career prospects.
     """)
-    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">Contact Us</button></a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">WhatsApp</button></a>', unsafe_allow_html=True)
 
 with tab3:
     st.header("Coding Support Bundle")
@@ -77,9 +77,9 @@ with tab3:
     5. **Research Paper Assistance**  
        Get support in writing and publishing research papers in tech-related fields.
     """)
-    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">Contact Us</button></a>', unsafe_allow_html=True)
+    st.markdown('<a href="https://wa.link/mdj68a" target="_blank"><button style="padding: 10px 20px; font-size: 16px; color: white; background-color: #008000; border: none; border-radius: 5px;">WhatsApp</button></a>', unsafe_allow_html=True)
 
 # Footer
 st.write("---")
-st.markdown('<p style="text-align: center;">© 2024 UrgentProjects - Empowering Your Success</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align: center;">Copyright © 2024 UrgentProjects. All rights reserved.</p>', unsafe_allow_html=True)
 
